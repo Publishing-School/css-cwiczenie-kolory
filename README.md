@@ -1,5 +1,5 @@
 # Kolory w CSS
-[Kliknij tutaj aby rozwiązać zadanie](https://githubbox.com/Publishing-School/cwiczenie-kolory-w-css)
+[Kliknij tutaj aby rozwiązać zadanie](https://githubbox.com/Publishing-School/css-cwiczenie-kolory)
 
 
 Rozwiązanie
